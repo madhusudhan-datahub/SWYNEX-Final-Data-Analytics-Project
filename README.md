@@ -4,6 +4,8 @@
 
 **1. Project Overview**
 
+![Online Retail Dashboard](Dashboard_Screenshot.png)
+
 This project was completed as part of the SWYNEX Technologies Data Analyst Internship. It brings together data cleaning, exploratory data analysis (EDA), business insights, and interactive dashboard development using the Online Retail dataset.
 
 The objective is to transform raw retail transaction data into meaningful insights that can support business decision-making.
