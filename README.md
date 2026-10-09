@@ -124,6 +124,13 @@ An interactive dashboard was developed in Microsoft Power BI to present the main
 
 **11. Project Deliverables**
 
+Project Deliverables
+
+- "EDA Notebook" (SWYNEX_Task_2_EDA.ipynb)
+- "Power BI Dashboard" (SWYNEX_Task_3_Interactive_Dashboard.pbix)
+- "Dashboard Screenshot" (Dashboard_Screenshot.png)
+- "Cleaned Retail Dataset" (Online_Retail_Cleaned_Task2.xlsx)
+
 This repository documents the end-to-end case study and includes the relevant project files, analysis, and dashboard materials.
 
 **12. Conclusion**
